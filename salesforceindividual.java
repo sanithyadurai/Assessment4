@@ -9,7 +9,7 @@ import com.leaftaps.pages.LoginPage;
 
 
 
-	public class AssessmentSFIndividuals extends ProjectSpecificMethods{
+	public class salesforceindividual extends PsMethods{
 
 		 @BeforeTest
 	        public void setOppvalue() {
