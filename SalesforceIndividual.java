@@ -15,7 +15,7 @@ import com.leaftaps.pages.LoginPage;
 	        public void setOppvalue() {
 	            testcaseName = "Create Individual";
 	            testDescription ="Create and Verify new Individual";
-	            authors="Harish";
+	            authors="Chinna";
 	            category ="Smoke";
 	            excelFileName = "SFIndividuals";
 	        }
