@@ -10,7 +10,7 @@ import org.testng.annotations.Parameters;
 import com.framework.selenium.api.base.SeleniumBase;
 import com.framework.utils.DataLibrary;
 
-public class ProjectSpecificMethods extends SeleniumBase {
+public class PsMethods extends SeleniumBase {
 
 	@DataProvider(name = "fetchData", indices = 0)
 	public Object[][] fetchData() throws IOException {
